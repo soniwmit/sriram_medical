@@ -1,0 +1,6 @@
+{
+  "name": "Sriram Medical Hall",
+  "description": "Production-ready website and PWA for Sriram Medical Hall pharmacy in Mahabalipur, Paliganj, Bihar with medicine stock checker, WhatsApp ordering, and multi-page routing.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
